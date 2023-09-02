@@ -27,3 +27,14 @@ A king known as Shah Jahan has built this monument.
     * Tandoori
 
 To get more information :- ***[Saiprakash%20Goud](MyStats.md)***
+
+---
+
+The following are the list of sports that i would suggest you to play:- 
+
+|Sport|Reason|Average hours per week|
+|:---|---|:---:|
+|Cricket|Improves physical strength|7|
+|Volley Ball|Improves reaction speed and quick thinking ability|9|
+|Tennis|Increases concentration and physical strength|5|
+|Basket Ball|Helps to gain height and|4|
