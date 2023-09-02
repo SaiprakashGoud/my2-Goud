@@ -41,8 +41,24 @@ The following are the list of sports that i would suggest you to play:-
 
 ---
 
-## Intresting Quotes about Enginners
+## Interesting Quotes about Enginners
 
 >**Enginners like to solve problems. If there are no problems handily available, they will create their own problems.** *Scott Adams*
 
 >**Scientists investigate that which already is; Engineers create that which has never been.** *Albert Einstein*
+
+---
+
+## htaccess 
+
+~~I am a beginner to Zend framework and I want to know more about the .htaccess file and its uses. Can somebody help me?~~
+
+link for the above question:- ***(https://stackoverflow.com/questions/13170819/what-is-htaccess-file)***
+
+~~~
+redirect single page:-
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+redirect single site:-
+Redirect 301 / http://newsite.com/
+~~~
