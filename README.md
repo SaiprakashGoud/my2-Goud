@@ -38,3 +38,11 @@ The following are the list of sports that i would suggest you to play:-
 |Volley Ball|Improves reaction speed and quick thinking ability|9|
 |Tennis|Increases concentration and physical strength|5|
 |Basket Ball|Helps to gain height and|4|
+
+---
+
+## Intresting Quotes about Enginners
+
+>**Enginners like to solve problems. If there are no problems handily available, they will create their own problems.** *Scott Adams*
+
+>**Scientists investigate that which already is; Engineers create that which has never been.** *Albert Einstein*
