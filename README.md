@@ -56,19 +56,9 @@ The following are the list of sports that i would suggest you to play:-
 link for the above question:- [Stackoverflow](https://stackoverflow.com/questions/13206161/how-to-stack-elements-using-css#:~:text=%23container%20%7B%20position%3A%20relative%3B%20overflow%3A%20hidden%3B%20%7D%20%23fill,%7B%20position%3A%20absolute%3B%20left%3A%200%3B%20bottom%3A%200%3B%20%7D)
 
 ~~~
-span.icon {
-  display: inline-block;  
-}
-.header {
-  display: flex;
-}
-.group {
-  display: flow-root
-}
-body {
-  display: grid;
-}
-.element {
-  display: contents;
+.container {
+  grid-template-columns: 100px 50px 100px;
+  grid-template-rows: 80px auto 80px; 
+  gap: 15px 10px;
 }
 ~~~
