@@ -49,16 +49,26 @@ The following are the list of sports that i would suggest you to play:-
 
 ---
 
-## htaccess 
+## CSS 
 
-~~I am a beginner to Zend framework and I want to know more about the .htaccess file and its uses. Can somebody help me?~~
+~~How to stack elements in CSS~~
 
-link for the above question:- ***(https://stackoverflow.com/questions/13170819/what-is-htaccess-file)***
+link for the above question:- [Stackoverflow](https://stackoverflow.com/questions/13206161/how-to-stack-elements-using-css#:~:text=%23container%20%7B%20position%3A%20relative%3B%20overflow%3A%20hidden%3B%20%7D%20%23fill,%7B%20position%3A%20absolute%3B%20left%3A%200%3B%20bottom%3A%200%3B%20%7D)
 
 ~~~
-redirect single page:-
-Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
-Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
-redirect single site:-
-Redirect 301 / http://newsite.com/
+span.icon {
+  display: inline-block;  
+}
+.header {
+  display: flex;
+}
+.group {
+  display: flow-root
+}
+body {
+  display: grid;
+}
+.element {
+  display: contents;
+}
 ~~~
